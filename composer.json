@@ -1,0 +1,15 @@
+{
+    "name": "felipemorano/wp-db2excel",
+    "description": "Wordpress plugin for downloading database tables in excel format",
+    "type": "wordpress-plugin",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.12"
+    },
+    "license": "GPL2",
+    "authors": [
+        {
+            "name": "Felipe Morano",
+            "email": "hola@felipemorano.com"
+        }
+    ]
+}
