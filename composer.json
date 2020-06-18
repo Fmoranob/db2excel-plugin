@@ -10,7 +10,9 @@
             "htdocs/content/plugins/{$name}": ["wordpress-plugin"]
         }
     },
-    "license": "GPL2",
+    "license": [
+        "GPL-3.0-or-later"
+    ],
     "authors": [
         {
             "name": "Felipe Morano",
