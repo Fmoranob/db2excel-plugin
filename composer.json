@@ -5,6 +5,11 @@
     "require": {
         "phpoffice/phpspreadsheet": "^1.12"
     },
+    "extra": {
+        "installer-paths": {
+            "htdocs/content/plugins/{$name}": ["wordpress-plugin"]
+        }
+    },
     "license": "GPL2",
     "authors": [
         {
