@@ -2,7 +2,6 @@
     "name": "felipemorano/wp-db2excel",
     "description": "Wordpress plugin for downloading database tables in excel format",
     "type": "wordpress-plugin",
-    "version": "2.0",
     "require": {
         "phpoffice/phpspreadsheet": "^1.12"
     },
